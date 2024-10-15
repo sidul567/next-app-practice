@@ -15,6 +15,9 @@ const Todos = (props: Props) => {
       fetch("https://jsonplaceholder.typicode.com/todos").then((res) =>
         res.json()
       ),
+    // staleTime: 4000,
+    // refetchInterval: 2000,
+    // refetchOnWindowFocus: false,
   });
 
   const { mutate, isPending } = useMutation({
