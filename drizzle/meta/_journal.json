@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1730022256998,
+      "tag": "0000_cultured_warlock",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1730022786303,
+      "tag": "0001_wide_hawkeye",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1730023216132,
+      "tag": "0002_wet_yellow_claw",
+      "breakpoints": true
+    }
+  ]
+}
